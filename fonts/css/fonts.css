@@ -1,0 +1,46 @@
+/*font-family: "RobotoLight"; */
+
+@font-face {
+	font-family: "RobotoLight";
+	src: url("../fonts/Roboto/Roboto-Light/Roboto-Light-webfont.eot");
+	src: url("../fonts/Roboto/Roboto-Light/Roboto-Light-webfont.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/Roboto/Roboto-Light/Roboto-Light-webfont.woff") format("woff"),
+        url("../fonts/Roboto/Roboto-Light/Roboto-Light-webfont.ttf") format("truetype"),
+        url("Roboto-Light-webfont.svg#robotolight") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*font-family: "RobotoBold"; */
+
+@font-face {
+   font-family: "RobotoBold";
+	src: url("../fonts/Roboto/Roboto-Bold/Roboto-Bold-webfont.eot'");
+	src: url("../fonts/Roboto/Roboto-Bold/Roboto-Bold-webfont.eot?#iefix")format("embedded-opentype"),
+        url("../fonts/Roboto/Roboto-Bold/Roboto-Bold-webfont.woff") format("woff"),
+        url("../fonts/Roboto/Roboto-Bold/Roboto-Bold-webfont.ttf") format("truetype"),
+        url("Roboto-Bold-webfont.svg#robotobold") format("svg");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*font-family: "AcromLight"; */
+
+@font-face {
+	font-family: "AcromLight";
+	src: url("../fonts/Acrom/Acrom-Light.otf");
+	src: url("../fonts/Acrom/Acrom-Light.otf")format("opentype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+/*font-family: "AcromExtraBold"; */
+
+@font-face {
+	font-family: "AcromExtraBold";
+	src: url("../fonts/Acrom/Acrom-ExtraBold.otf");
+	src: url("../fonts/Acrom/Acrom-ExtraBold.otf")format("opentype");
+	font-style: normal;
+	font-weight: normal;
+}
+
